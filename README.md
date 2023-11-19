@@ -17,7 +17,7 @@
 git clone https://github.com/GuoChanLiangXin/gclx-contracts.git
 cd gclx-contracts
 npm install
-```
+````
 
 将 .env.sample 复制改名为 .env 然后将里面内容进行修改。
 
